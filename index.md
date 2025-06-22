@@ -1,4 +1,46 @@
 <div>
+      <h1>Self-Assessment</h1>  
+        <h3>A.	Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you 
+                showcase your strengths, shape your professional goals and values, and prepare to enter or become more 
+                employable in the computer science field.</h3>
+        <h5>
+                The program at SNHU helped massively in the development of my skills as I originally had no prior knowledge, 
+                no projects made, and an overall unawareness of Computer Science. By taking the various classes and learning 
+                about the vast material within the program, I had adopted many skills that will aid in future endeavors such 
+                as: The ability to code securely, using unit, static, and dynamic testing; the ability to plan a project 
+                through pseudocode, the development lifecycle, and roles within project making; and the ability to have an 
+                understanding of the vast amounts of languages such as SQL, Java, C++, Python, and more. The ability to show 
+                improvement over the past couple of years, from knowing nothing to having a strong grasp of many concepts, 
+                displays the strength of willingness to grow and improve. Beyond this, specific skills, such as utilizing 
+                the development lifecycle or learning about ideas such as CI/CD, enable collaboration with a team. The 
+                ability to plan, assess, and determine a goal from the viewpoints of stakeholders and customers enables 
+                projects to be built with readiness for success. The ability to display my code skills through the 
+                enhancements highlights how I work with different environments and provides a flexible role for employers. 
+                These broad skills and improvements allow me to take the next steps, either through employability or through 
+                solo projects, which allows me to become more employable.
+        </h5>
+        <h3>B.	Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.</h3>
+        <h5>
+                The projects displayed within the ePortfolio demonstrate examples of my ability to code and the improvements 
+                I have accomplished over the course of my schooling. While these artifacts may not demonstrate the highest 
+                level of coding, they do showcase a vast range of skills with solid foundations. Firstly, enhancement one 
+                highlights the ability to display data to a viewer using innovative tools. This artifact was created using 
+                Javascript/React and contains a fully functioning table that allows a user to sort, search, and filter data. 
+                Secondly, enhancement two highlights the ability to work with algorithms and data structure as it provides a 
+                well-rounded ability to manipulate and store information which allows users to either undo or redo actions. 
+                This enhancement was similarly done with Java/React. Finally, enhancement three is a solid example of a MERN 
+                application as a user can connect to a database, the information to call actions between the front and back 
+                end, and by allowing authorization to be enabled as only logged in users can manipulate data. Ultimately 
+                this ePortfolio should demonstrate many skills: The ability to employ collaboration, through both the 
+                comments in the code, the various narratives, and the open-source projects; the ability to communicate 
+                professionally, through the code review; the ability to design computing solutions using algorithmic logic, 
+                through the undo/redo stack; the ability to demonstrate well founded tools to deliver value, through the 
+                React page; and the ability to implement a secure mindset, through the login and safe coding practices. 
+                There are still improvements needed in each project, such as increased modularization in enhancement three, 
+                but regardless, it highlights my ability to create strong projects.
+        </h5>
+</div>
+<div>
         <h1>Code Review</h1>
         <iframe width="700" height="425" src="https://www.youtube.com/embed/Fy_drKCJWU4?si=r0HRbUd_x-LhSVq2" 
                 title="YouTube video player" frameborder="0" 
@@ -16,7 +58,7 @@
         <h1>Enhancement 1:</h1>
         <h3>Software Design and Engineering</h3>
         <a href="https://github.com/averylr25/averylr25.github.io/blob/main/CS499-Enhancement1.zip">Github Link</a>
-        <img src="images/enh1.png"></img>
+        <img src="images/enh1.png">
         <h2>Narrative</h2>
         <h3>1.	Briefly describe the artifact. What is it? When was it created?</h3>
         <h4>
@@ -58,7 +100,7 @@
         <h1>Enhancement 2:</h1>
         <h3>Algorithms and Data Structures</h3>
         <a href="https://github.com/averylr25/averylr25.github.io/blob/main/CS499-Enhancement2.zip">Github Link</a>
-        <img src="images/enh2.png"></img>
+        <img src="images/enh2.png">
         <h2>Narrative</h2>
         <h3>1.	Briefly describe the artifact. What is it? When was it created?</h3>
         <h4>
@@ -95,7 +137,7 @@
         <h1>Enhancement 3:</h1>
         <h3>Databases</h3>
         <a href="https://github.com/averylr25/averylr25.github.io/blob/main/CS499-Enhancement3.zip">Github Link</a>
-        <img src="images/enh3.png"></img>
+        <img src="images/enh3.png">
         <h2>Narrative</h2>
         <h3>1.	Briefly describe the artifact. What is it? When was it created?</h3>
         <h4>
